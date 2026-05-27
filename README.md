@@ -54,7 +54,7 @@ O foco do projeto foi praticar:
 Depois de publicar no GitHub Pages:
 
 ```txt
-https://SEUUSUARIO.github.io/NOME-DO-REPOSITORIO
+https://anythingjr.github.io/kessoku-band-site/
 ```
 
 ---
